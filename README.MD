@@ -1,4 +1,9 @@
 # SQL and Power BI Data Analytics Project
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![ETL](https://img.shields.io/badge/Process-ETL-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 This project demonstrates an end-to-end data analytics workflow using a star schema dataset. It covers data ingestion, cleaning, validation, and preparation for business intelligence reporting.
 The goal was to transform raw transactional data into a clean, analysis-ready model and connect it to Power BI for visualization.
 
