@@ -13,6 +13,10 @@ Raw CSV Files → PostgreSQL (Staging) → Clean Views → Star Schema → Power
 - Git & GitHub
 
 ## Folder Structure
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 7042022853c825815ce19bbfa642aa05aeb8d0e1
 ```
 sql-powerbi-project/ 
 │ 
@@ -31,6 +35,11 @@ sql-powerbi-project/
 │ 
 └── README.md
 ```
+<<<<<<< HEAD
+=======
+
+---
+>>>>>>> 7042022853c825815ce19bbfa642aa05aeb8d0e1
 
 ## 🧹 Data Cleaning & Transformation
 
@@ -73,10 +82,10 @@ sql-powerbi-project/
 
 Performed multiple validation checks:
 
-- ✔ No duplicate primary keys in dimension tables  
-- ✔ No NULL values in key columns  
-- ✔ Verified fact-to-dimension relationships  
-- ✔ Ensured consistent joins across all tables  
+- No duplicate primary keys in dimension tables  
+- No NULL values in key columns  
+- Verified fact-to-dimension relationships  
+- Ensured consistent joins across all tables  
 
 ---
 
