@@ -13,24 +13,24 @@ Raw CSV Files → PostgreSQL (Staging) → Clean Views → Star Schema → Power
 - Git & GitHub
 
 ## Folder Structure
- 
+```
 sql-powerbi-project/ 
 │ 
 ├── sql/ 
 │   ├── 01_create_tables.sql 
-│   ├── 03_data_checks.sql 
-│   └── 05_views.sql 
+│   ├── 02_data_checks.sql 
+│   └── 03_views.sql 
 │ 
-├── docs/ 
-│   ├── cleaning_log.md 
-│   └── data_notes.md 
+├── docs/
+|   ├── 00_data_import_notes.md
+|   ├── 02_data_types_notes.md 
+│   ├── 02_data_notes.md 
+│   └── 03_cleaning_log.md 
 │ 
 ├── data_raw/ (excluded via .gitignore) 
 │ 
 └── README.md
-
-
----
+```
 
 ## 🧹 Data Cleaning & Transformation
 
