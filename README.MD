@@ -37,7 +37,7 @@ sql-powerbi-project/
 └── README.md
 ```
 
-## 🧹 Data Cleaning & Transformation
+## Data Cleaning & Transformation
 
 ### 1. Staging Layer
 - Imported raw CSV files into PostgreSQL
