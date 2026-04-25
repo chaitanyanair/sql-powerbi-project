@@ -13,10 +13,6 @@ Raw CSV Files → PostgreSQL (Staging) → Clean Views → Star Schema → Power
 - Git & GitHub
 
 ## Folder Structure
-<<<<<<< HEAD
-=======
- 
->>>>>>> 7042022853c825815ce19bbfa642aa05aeb8d0e1
 ```
 sql-powerbi-project/ 
 │ 
@@ -35,11 +31,6 @@ sql-powerbi-project/
 │ 
 └── README.md
 ```
-<<<<<<< HEAD
-=======
-
----
->>>>>>> 7042022853c825815ce19bbfa642aa05aeb8d0e1
 
 ## 🧹 Data Cleaning & Transformation
 
