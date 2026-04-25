@@ -1,0 +1,4 @@
+-- fact_sales:
+-- header = ON
+-- delimiter = comma
+-- no errors after fixing header issue
