@@ -14,6 +14,7 @@ Raw CSV Files → PostgreSQL (Staging) → Clean Views → Star Schema → Power
 
 ## Folder Structure
  
+```
 sql-powerbi-project/ 
 │ 
 ├── sql/ 
@@ -28,7 +29,7 @@ sql-powerbi-project/
 ├── data_raw/ (excluded via .gitignore) 
 │ 
 └── README.md
-
+```
 
 ---
 
