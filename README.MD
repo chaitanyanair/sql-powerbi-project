@@ -74,10 +74,10 @@ sql-powerbi-project/
 
 Performed multiple validation checks:
 
-- ✔ No duplicate primary keys in dimension tables  
-- ✔ No NULL values in key columns  
-- ✔ Verified fact-to-dimension relationships  
-- ✔ Ensured consistent joins across all tables  
+- No duplicate primary keys in dimension tables  
+- No NULL values in key columns  
+- Verified fact-to-dimension relationships  
+- Ensured consistent joins across all tables  
 
 ---
 
